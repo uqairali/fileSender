@@ -1,0 +1,15 @@
+.Btn{
+    width: 100px;
+    height: 80px;
+    border-radius: 6px;
+    background-color: rgba(59, 144, 150, 0.527);
+    text-align: center;
+    color:white;
+    padding:5px;
+    border-bottom: 2px inset rgb(161, 154, 154);
+    float: left;
+    margin-left: 120px;
+}
+.Btn:hover{
+    box-shadow:5px 8px 12px rgba(187, 5, 51, 0.171);
+}

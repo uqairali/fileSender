@@ -1,0 +1,17 @@
+.container{
+    max-width: 600px;
+}
+
+.Border{
+ width: 600px;
+ height: 500px;
+ padding: 15px;
+ border:4px solid rgb(150, 142, 142);
+ border-style: dashed;
+ background-color: rgb(236, 236, 236);
+ margin-top: 100px;
+}
+
+.MouseHover:hover{
+color: rgba(22, 206, 212, 0.733)
+}
